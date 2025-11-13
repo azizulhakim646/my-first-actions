@@ -6,5 +6,6 @@ jobs:
   hello-world:
     runs-on: ubuntu-latest
     steps:
-      - name: Say Hello
+      - name: New Comer
         run: echo "Hello, GitHub Actions!"
+
